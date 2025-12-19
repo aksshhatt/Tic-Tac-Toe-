@@ -17,5 +17,6 @@ Technologies Used:
 
 
 
-You can view the live demo here: (https://manishhdev.github.io/Tic-Tac-Toe-Game-/)
+
+
 
